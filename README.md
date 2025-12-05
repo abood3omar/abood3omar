@@ -89,6 +89,13 @@ I have solid experience in **Team Leadership** and project organization. While m
 ---
 
 <div align="center">
-  <p><b>👇 Check out my repositories below to see my code in action, or visit my LinkedIn for more details! 👇</b></p>
+  <h3>🚀 There's more to explore!</h3>
+  <p>
+    These projects are just a glimpse of my work. Check out my <b>repositories below</b> for more code and experiments. <br/>
+    For a full detailed history of my experience and skills, let's connect on <a href="https://www.linkedin.com/in/abdalrhman-hamed-5b929725b/"><b>LinkedIn</b></a>, or visit my <a href="https://instagram.com/abood3omar"><b>Instagram</b></a> to follow my tech journey!
+  </p>
+  
+  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=abood3omar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
 </div>
