@@ -97,5 +97,5 @@ I have solid experience in **Team Leadership** and project organization. While m
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=abood3omar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abood3omar&show_icons=true&theme=radical&hide_border=true" alt="Abdalrhman's Stats" />
 </div>
