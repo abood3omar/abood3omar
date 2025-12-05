@@ -2,13 +2,13 @@
 
 # Abdalrhman Hamed
 
-### 🚀 Software Engineer | Backend & Web Architecture Specialist
+### 🚀 Software Engineer | Backend Developer
 
 <p align="center">
   <a href="https://instagram.com/abood3omar">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/abdalrhman-hamed-5b929725b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:omarabdalrhman53@gmail.com">
@@ -22,64 +22,63 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a dedicated **Software Engineer** and **Full Stack Developer** with a strong foundation in Computer Science. My expertise lies in architecting robust **Backend Systems**, designing complex **Database Schemas**, and integrating **AI Models** into web applications.
+I am a dedicated **Backend Software Engineer** with a passion for building scalable and secure server-side applications. I distinguish myself by being a **highly adaptable fast learner**; I thrive on mastering new technologies and applying them to solve real-world problems.
 
-I focus on writing clean, secure, and scalable code using **Laravel** and **MERN Stack**. I have practical experience in building Enterprise Resource Planning (ERP) systems, EdTech platforms, and AI-driven tools.
+I have solid experience in **Team Leadership** and project organization. While my core expertise lies in **Laravel & PHP**, I am actively expanding my stack into **MERN** and **AI Integration** to deliver comprehensive solutions.
 
-* 🔭 **Focus:** Scalable Backend Architecture, Database Optimization, AI Integration.
-* 🛡️ **Security:** Implementing secure coding practices (Auth, Roles & Permissions, Data Protection).
-* 💡 **Problem Solving:** Transforming complex business requirements into efficient technical solutions.
+* 🔭 **Core Focus:** Backend Architecture, API Development, Database Optimization.
+* 🚀 **Growth Mindset:** Actively learning MERN Stack (React, Node.js) to broaden my Full-Stack capabilities.
+* 👥 **Teamwork:** Experience in leading technical teams and coordinating project tasks.
 
 ---
 
-### 🛠️ Technical Expertise
+### 🛠️ Technical Arsenal
 
-#### 🔙 Backend & Architecture
+#### 🔹 Backend & Databases (My Playground)
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC_Pattern-000000?style=for-the-badge&logo=ark-ecosystem&logoColor=white" />
-</p>
-
-#### 🗄️ Databases & Design
-<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-#### 🧠 AI & Web Integration
+#### 🔹 Languages & AI Tools
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
 
-#### 🌐 Frontend & Security
+#### 🔹 Tools & Management
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+#### 🌱 Currently Exploring
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Basics-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-### 💻 Featured Engineering Projects
+### 💻 Featured Projects
 
-| Project | Type | Engineering Highlights & Tech Stack |
+| Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Sukuk** | Real Estate Platform | **Enterprise System.** Architected a comprehensive management system with Role-Based Access Control (RBAC), complex Database Relationships, and Subscription Workflows. <br/> *Tech: Laravel, MySQL, Google Maps API, AJAX.* |
-| **ExoHunter** | AI Web App | **AI Integration.** Developed a platform utilizing Python/Flask machine learning models to analyze NASA datasets and classify exoplanets with high precision. <br/> *Tech: Laravel, Python (Flask), SQL.* |
-| **Education Space** | EdTech Hub | **Scalable Platform.** A multi-user ecosystem connecting students and trainers with dynamic scheduling and resource management. <br/> *Tech: Full Stack Implementation.* |
-| **SmartFly** | Aviation System | **Interactive System.** Integrated AI Chatbots for real-time user assistance within a travel management architecture. <br/> *Tech: Laravel, AI APIs, Tailwind.* |
+| **Sukuk** | Laravel, MySQL | **Enterprise Real Estate System.** Architected a comprehensive management platform with RBAC (Roles/Permissions) and subscription workflows. |
+| **Doctor AI** | Python (Flask) | **Smart Healthcare Assistant.** Developed Flask APIs to serve AI diagnostic models and built the user web interface. |
+| **ExoHunter** | Laravel, Python (Flask) | **NASA Space Apps Project.** Integrated a Python AI model with a Laravel web app to classify exoplanets. |
+| **SmartFly** | Laravel, AI APIs | **Travel Platform.** A booking system featuring an AI Chatbot for real-time traveler assistance. |
 
 ---
 
 <div align="center">
+  <p><b>👇 Check out my repositories below to see my code in action, or visit my LinkedIn for more details! 👇</b></p>
   <img src="https://github-readme-stats.vercel.app/api?username=abood3omar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
 </div>
