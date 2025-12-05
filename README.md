@@ -24,7 +24,7 @@
 
 I am a dedicated **Backend Software Engineer** with a passion for building scalable and secure server-side applications. I distinguish myself by being a **highly adaptable fast learner**; I thrive on mastering new technologies and applying them to solve real-world problems.
 
-I have solid experience in **Team Leadership** and project organization. While my core expertise lies in **Laravel & PHP**, I am actively expanding my stack into **MERN** and **AI Integration** to deliver comprehensive solutions.
+I have solid experience in **Team Leadership** and project organization. While my core expertise lies in **Laravel & PHP**, I possess strong frontend capabilities to build complete solutions, and I am actively expanding my stack into **MERN** and **AI Integration**.
 
 * 🔭 **Core Focus:** Backend Architecture, API Development, Database Optimization.
 * 🚀 **Growth Mindset:** Actively learning MERN Stack (React, Node.js) to broaden my Full-Stack capabilities.
@@ -43,6 +43,15 @@ I have solid experience in **Team Leadership** and project organization. While m
   <img src="https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
+#### 🔹 Frontend & Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AJAX-Async_JS-000000?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
 #### 🔹 Languages & AI Tools
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,12 +59,13 @@ I have solid experience in **Team Leadership** and project organization. While m
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-#### 🔹 Tools & Management
+#### 🔹 Tools, Management & Skills
 <p>
+  <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 #### 🌱 Currently Exploring
@@ -71,7 +81,7 @@ I have solid experience in **Team Leadership** and project organization. While m
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Sukuk** | Laravel, SQL | **Enterprise Real Estate System.** Architected a comprehensive management platform with RBAC (Roles/Permissions) and subscription workflows. |
+| **Sukuk** | Laravel, MySQL, AJAX | **Enterprise Real Estate System.** Architected a comprehensive management platform with RBAC (Roles/Permissions) and subscription workflows. |
 | **Doctor AI** | Python (Flask) | **Smart Healthcare Assistant.** Developed Flask APIs to serve AI diagnostic models and built the user web interface. |
 | **ExoHunter** | Laravel, Python (Flask) | **NASA Space Apps Project.** Integrated a Python AI model with a Laravel web app to classify exoplanets. |
 | **SmartFly** | Laravel, AI APIs | **Travel Platform.** A booking system featuring an AI Chatbot for real-time traveler assistance. |
