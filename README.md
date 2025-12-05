@@ -71,7 +71,7 @@ I have solid experience in **Team Leadership** and project organization. While m
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Sukuk** | Laravel, MySQL | **Enterprise Real Estate System.** Architected a comprehensive management platform with RBAC (Roles/Permissions) and subscription workflows. |
+| **Sukuk** | Laravel, SQL | **Enterprise Real Estate System.** Architected a comprehensive management platform with RBAC (Roles/Permissions) and subscription workflows. |
 | **Doctor AI** | Python (Flask) | **Smart Healthcare Assistant.** Developed Flask APIs to serve AI diagnostic models and built the user web interface. |
 | **ExoHunter** | Laravel, Python (Flask) | **NASA Space Apps Project.** Integrated a Python AI model with a Laravel web app to classify exoplanets. |
 | **SmartFly** | Laravel, AI APIs | **Travel Platform.** A booking system featuring an AI Chatbot for real-time traveler assistance. |
