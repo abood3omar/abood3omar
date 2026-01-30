@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0000FF&height=200&section=header&text=Abdalrhman%20Hamed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Developer%20&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=200&section=header&text=Abdalrhman%20Hamed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
   <h3>
     Backend Developer 🛠️ | SaaS Architect 🏗️ | AI Integrator 🤖
